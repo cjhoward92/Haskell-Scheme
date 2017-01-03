@@ -1,2 +1,15 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignore file extensions
 *.o
 *.hi
+
+# Ignore Directories
+bin/
